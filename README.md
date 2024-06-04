@@ -1,4 +1,5 @@
-# Build-your-OWN-Database-Programming-Interface-GraphQL-REST-API-Neurelo
+
+## Build-your-OWN-Database-Programming-Interface-GraphQL-REST-API-Neurelo
 
 https://www.youtube.com/watch?v=SmyV-yJxgIM 
 
@@ -6,23 +7,32 @@ https://raw.githubusercontent.com/RodrigoMvs123/Build-your-OWN-Database-Programm
 
 https://github.com/RodrigoMvs123/Build-your-OWN-Database-Programming-Interface-GraphQL-REST-API-Neurelo/blame/main/README.md
 
-Neurelo 
+## Neurelo 
 https://www.neurelo.com/cloud-data-apis?utm_campaign=Coding%20with%20Ania&utm_source=youtube&utm_medium=paidsocial&utm_content=Cloud-data-API 
+
 Dashboard
+
 https://dashboard.neurelo.com/projects 
 
-Start Project 
-New
-Organization
-Rodrigo M.V.S.´s Organization
-Name
-movies
-Database Engine
-MongoDB
-Language
-Javascript
-Create
 
+
+### Neurelo UI
+
+```bash
+ Start Project 
+ New
+ Organization
+ Rodrigo M.V.S.´s Organization
+ Name
+ movies
+ Database Engine
+ MongoDB
+ Language
+ Javascript
+ Create
+```
+
+```bash
 Add a Data Source - MongoDB
 Connect Data Source
 New Data Source
@@ -36,6 +46,11 @@ Region
 …
 Test Connection
 Submit 
+```
+
+### MongoDB UI
+
+```bash
 MongoDB
 https://www.mongodb.com/ 
 Create Project
@@ -71,8 +86,12 @@ Confirm
 Database UI
 Browser Collections
 sample_mflix ( Add to Connection String …/sample_flix )
+```
 
-Neurelo UI
+### Neurelo UI
+
+```bash
+Neurelo
 Projects
 Movies
 Dashboard
@@ -104,8 +123,12 @@ X-API-KEY      Value …
 Send
 Response
 Users ( Object )
+```
 
-Neurelo UI
+### Neurelo UI
+
+```bash
+Neurelo
 Projects
 Movies
 Definitions
@@ -135,9 +158,6 @@ Commit
 Docs
 Custom Queries
 GET 1960-movies
-
-
-
-
+```
 
 
